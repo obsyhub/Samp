@@ -4,11 +4,11 @@
 - this is a short-term project, If it gets any attention I'll do fixes and keep updating it
 ---
 
-## 🚀 Getting Started
+## ⁉️ Usage
 
 ### Loading the Library
 ```lua
-local SampUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_REPO/SampUI/main/library.lua"))()
+local SampUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/obsyhub/Samp/refs/heads/main/UI"))()
 ```
 
 ### Creating a Window
