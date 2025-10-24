@@ -81,7 +81,7 @@ The library includes built-in Lucide icons:
 - `Star` - rbxassetid://10723424505
 - `Box` - rbxassetid://10723346959
 
- you can also add some by changing Icon ="rbxassetid://yourtextureid"
+ you can also add some (luicide icons) by changing Icon = "rbxassetid://yourtextureid"
 
 ---
 
