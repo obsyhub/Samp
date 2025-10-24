@@ -80,6 +80,7 @@ The library includes built-in Lucide icons:
 - `Globe` - rbxassetid://10723386633
 - `Star` - rbxassetid://10723424505
 - `Box` - rbxassetid://10723346959
+
  you can also add some by changing Icon ="rbxassetid://yourtextureid"
 
 ---
