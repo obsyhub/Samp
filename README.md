@@ -229,36 +229,6 @@ Window:CreateDialogue({
 
 ---
 
-## ✨ Features
-
-### Animated Star Fields
-Every element includes an animated star field background that creates a dynamic, living UI experience.
-
-### Glass Morphism
-All components feature glass-like borders with transparency for a modern, premium feel.
-
-### Smooth Animations
-- Window entrance/exit animations
-- Tab selection transitions
-- Button hover effects
-- Toggle animations
-- Slider interactions
-- Dropdown expand/collapse
-- Color picker popups
-- Notification slides
-- Dialogue fades
-
-### Draggable Elements
-- Main window can be dragged by the title bar
-- Minimized toggle icon can be repositioned
-
-### Toggle Visibility
-- Press the configured toggle key (default: RightShift) to show/hide the UI
-- Click the minimize button to collapse the window
-- Toggle icon appears when minimized for easy access
-
----
-
 ## 🎯 Complete Example
 
 ```lua
